@@ -1,0 +1,14 @@
+{
+  "window_start": "07:45",
+  "window_end": "10:30",
+  "step_min": 5,
+  "slot_capacity": 8.0,
+  "preorder_share": 0.6,
+  "min_lead_min": 10,
+  "order_from": "06:30",
+  "cancel_before_min": 5,
+  "ready_keep_min": 15,
+  "max_units": 5,
+  "timezone": "Europe/Moscow",
+  "demo_time": null
+}

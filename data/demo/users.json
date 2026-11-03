@@ -1,0 +1,30 @@
+{
+  "guests": [
+    {
+      "tg_id": 900000001,
+      "name": "Павел"
+    },
+    {
+      "tg_id": 900000002,
+      "name": "Алина"
+    },
+    {
+      "tg_id": 900000003,
+      "name": "Ольга"
+    }
+  ],
+  "staff": [
+    {
+      "login": "barista",
+      "role": "barista",
+      "name": "Денис (бариста)",
+      "password_env": "BARISTA_PASSWORD"
+    },
+    {
+      "login": "manager",
+      "role": "manager",
+      "name": "Марина (управляющая)",
+      "password_env": "MANAGER_PASSWORD"
+    }
+  ]
+}

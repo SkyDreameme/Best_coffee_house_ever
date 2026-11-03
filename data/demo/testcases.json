@@ -1,0 +1,94 @@
+{
+  "T1": {
+    "lines": [
+      {
+        "item_id": 3,
+        "name": "Капучино",
+        "size": "M",
+        "milk": "овсяное",
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 360,
+        "unit_load": 1.5
+      },
+      {
+        "item_id": 17,
+        "name": "Круассан классический",
+        "size": "M",
+        "milk": null,
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 160,
+        "unit_load": 0.3
+      }
+    ],
+    "expect_price": 520,
+    "expect_load": 1.8
+  },
+  "T2": {
+    "slot": "08:35",
+    "slot_load": 3.0,
+    "new_load": 1.8,
+    "expect": "доступен; +круассан 5,1 > 4,8 — недоступен"
+  },
+  "T3": {
+    "lines": [
+      {
+        "item_id": 6,
+        "name": "Раф",
+        "size": "L",
+        "milk": "овсяное",
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 2,
+        "unit_price": 490,
+        "unit_load": 2.0
+      }
+    ],
+    "expect_price": 980,
+    "expect_load": 4.0
+  },
+  "T4": {
+    "lines": [
+      {
+        "item_id": 4,
+        "name": "Латте",
+        "size": "M",
+        "milk": "коровье",
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 4,
+        "unit_price": 320,
+        "unit_load": 1.5
+      }
+    ],
+    "expect_load": 6.0,
+    "expect": "недоступно ни в одном слоте"
+  },
+  "T5": {
+    "slot": "09:00",
+    "cancel_ok": "08:55:00",
+    "cancel_fail": "08:55:01"
+  },
+  "T6": {
+    "ready_at": "08:58",
+    "expect_overdue_at": "09:13"
+  },
+  "T7": {
+    "role": "barista",
+    "forbidden": [
+      "/manager/menu",
+      "/manager/summary"
+    ]
+  },
+  "T8": {
+    "stop_item": "Круассан классический",
+    "expect_sec": 10
+  },
+  "T9": {
+    "demo_time": "08:20",
+    "expect_first_slot": "08:30"
+  }
+}

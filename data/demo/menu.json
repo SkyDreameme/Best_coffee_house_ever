@@ -1,0 +1,429 @@
+[
+  {
+    "id": 1,
+    "name": "Эспрессо",
+    "category": "Кофе",
+    "price_m": 150,
+    "load": 0.7,
+    "allergens": [],
+    "sizes": [
+      "M"
+    ],
+    "milk": false,
+    "syrup": true,
+    "extra_shot": true,
+    "in_stop_list": false
+  },
+  {
+    "id": 2,
+    "name": "Американо",
+    "category": "Кофе",
+    "price_m": 200,
+    "load": 1.0,
+    "allergens": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "milk": false,
+    "syrup": true,
+    "extra_shot": true,
+    "in_stop_list": false
+  },
+  {
+    "id": 3,
+    "name": "Капучино",
+    "category": "Кофе",
+    "price_m": 300,
+    "load": 1.5,
+    "allergens": [
+      "молоко"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "milk": true,
+    "syrup": true,
+    "extra_shot": true,
+    "in_stop_list": false
+  },
+  {
+    "id": 4,
+    "name": "Латте",
+    "category": "Кофе",
+    "price_m": 320,
+    "load": 1.5,
+    "allergens": [
+      "молоко"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "milk": true,
+    "syrup": true,
+    "extra_shot": true,
+    "in_stop_list": false
+  },
+  {
+    "id": 5,
+    "name": "Флэт уайт",
+    "category": "Кофе",
+    "price_m": 330,
+    "load": 1.5,
+    "allergens": [
+      "молоко"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "milk": true,
+    "syrup": true,
+    "extra_shot": true,
+    "in_stop_list": false
+  },
+  {
+    "id": 6,
+    "name": "Раф",
+    "category": "Кофе",
+    "price_m": 380,
+    "load": 2.0,
+    "allergens": [
+      "молоко"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "milk": true,
+    "syrup": true,
+    "extra_shot": true,
+    "in_stop_list": false
+  },
+  {
+    "id": 7,
+    "name": "Мокка",
+    "category": "Кофе",
+    "price_m": 350,
+    "load": 1.7,
+    "allergens": [
+      "молоко"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "milk": true,
+    "syrup": true,
+    "extra_shot": true,
+    "in_stop_list": false
+  },
+  {
+    "id": 8,
+    "name": "Айс-латте",
+    "category": "Кофе",
+    "price_m": 340,
+    "load": 1.5,
+    "allergens": [
+      "молоко"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "milk": true,
+    "syrup": true,
+    "extra_shot": true,
+    "in_stop_list": false
+  },
+  {
+    "id": 9,
+    "name": "Айс-американо",
+    "category": "Кофе",
+    "price_m": 260,
+    "load": 1.0,
+    "allergens": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "milk": false,
+    "syrup": true,
+    "extra_shot": false,
+    "in_stop_list": false
+  },
+  {
+    "id": 10,
+    "name": "Фильтр-кофе",
+    "category": "Кофе",
+    "price_m": 180,
+    "load": 0.5,
+    "allergens": [],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "milk": false,
+    "syrup": true,
+    "extra_shot": false,
+    "in_stop_list": false
+  },
+  {
+    "id": 11,
+    "name": "Чай чёрный",
+    "category": "Не кофе",
+    "price_m": 180,
+    "load": 0.7,
+    "allergens": [],
+    "sizes": [
+      "M"
+    ],
+    "milk": false,
+    "syrup": false,
+    "extra_shot": false,
+    "in_stop_list": false
+  },
+  {
+    "id": 12,
+    "name": "Чай зелёный",
+    "category": "Не кофе",
+    "price_m": 180,
+    "load": 0.7,
+    "allergens": [],
+    "sizes": [
+      "M"
+    ],
+    "milk": false,
+    "syrup": false,
+    "extra_shot": false,
+    "in_stop_list": false
+  },
+  {
+    "id": 13,
+    "name": "Чай облепиховый",
+    "category": "Не кофе",
+    "price_m": 260,
+    "load": 1.0,
+    "allergens": [],
+    "sizes": [
+      "M"
+    ],
+    "milk": false,
+    "syrup": false,
+    "extra_shot": false,
+    "in_stop_list": false
+  },
+  {
+    "id": 14,
+    "name": "Какао",
+    "category": "Не кофе",
+    "price_m": 300,
+    "load": 1.5,
+    "allergens": [
+      "молоко"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "milk": true,
+    "syrup": true,
+    "extra_shot": false,
+    "in_stop_list": false
+  },
+  {
+    "id": 15,
+    "name": "Горячий шоколад",
+    "category": "Не кофе",
+    "price_m": 330,
+    "load": 1.5,
+    "allergens": [
+      "молоко"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "milk": true,
+    "syrup": true,
+    "extra_shot": false,
+    "in_stop_list": false
+  },
+  {
+    "id": 16,
+    "name": "Морс ягодный",
+    "category": "Не кофе",
+    "price_m": 200,
+    "load": 0.3,
+    "allergens": [],
+    "sizes": [
+      "M"
+    ],
+    "milk": false,
+    "syrup": false,
+    "extra_shot": false,
+    "in_stop_list": false
+  },
+  {
+    "id": 17,
+    "name": "Круассан классический",
+    "category": "Выпечка и еда",
+    "price_m": 160,
+    "load": 0.3,
+    "allergens": [
+      "глютен",
+      "молоко",
+      "яйца"
+    ],
+    "sizes": [
+      "M"
+    ],
+    "milk": false,
+    "syrup": false,
+    "extra_shot": false,
+    "in_stop_list": false
+  },
+  {
+    "id": 18,
+    "name": "Круассан с миндалём",
+    "category": "Выпечка и еда",
+    "price_m": 210,
+    "load": 0.3,
+    "allergens": [
+      "глютен",
+      "молоко",
+      "яйца",
+      "орехи"
+    ],
+    "sizes": [
+      "M"
+    ],
+    "milk": false,
+    "syrup": false,
+    "extra_shot": false,
+    "in_stop_list": false
+  },
+  {
+    "id": 19,
+    "name": "Сырник",
+    "category": "Выпечка и еда",
+    "price_m": 220,
+    "load": 0.5,
+    "allergens": [
+      "глютен",
+      "молоко",
+      "яйца"
+    ],
+    "sizes": [
+      "M"
+    ],
+    "milk": false,
+    "syrup": false,
+    "extra_shot": false,
+    "in_stop_list": false
+  },
+  {
+    "id": 20,
+    "name": "Сэндвич с индейкой",
+    "category": "Выпечка и еда",
+    "price_m": 330,
+    "load": 0.7,
+    "allergens": [
+      "глютен",
+      "молоко"
+    ],
+    "sizes": [
+      "M"
+    ],
+    "milk": false,
+    "syrup": false,
+    "extra_shot": false,
+    "in_stop_list": false
+  },
+  {
+    "id": 21,
+    "name": "Овсяная каша с ягодами",
+    "category": "Выпечка и еда",
+    "price_m": 250,
+    "load": 0.6,
+    "allergens": [
+      "глютен"
+    ],
+    "sizes": [
+      "M"
+    ],
+    "milk": false,
+    "syrup": false,
+    "extra_shot": false,
+    "in_stop_list": false
+  },
+  {
+    "id": 22,
+    "name": "Гранола с йогуртом",
+    "category": "Выпечка и еда",
+    "price_m": 240,
+    "load": 0.3,
+    "allergens": [
+      "глютен",
+      "молоко",
+      "орехи"
+    ],
+    "sizes": [
+      "M"
+    ],
+    "milk": false,
+    "syrup": false,
+    "extra_shot": false,
+    "in_stop_list": false
+  },
+  {
+    "id": 23,
+    "name": "Маффин шоколадный",
+    "category": "Выпечка и еда",
+    "price_m": 170,
+    "load": 0.3,
+    "allergens": [
+      "глютен",
+      "молоко",
+      "яйца"
+    ],
+    "sizes": [
+      "M"
+    ],
+    "milk": false,
+    "syrup": false,
+    "extra_shot": false,
+    "in_stop_list": false
+  },
+  {
+    "id": 24,
+    "name": "Печенье овсяное",
+    "category": "Выпечка и еда",
+    "price_m": 90,
+    "load": 0.1,
+    "allergens": [
+      "глютен",
+      "яйца"
+    ],
+    "sizes": [
+      "M"
+    ],
+    "milk": false,
+    "syrup": false,
+    "extra_shot": false,
+    "in_stop_list": false
+  }
+]

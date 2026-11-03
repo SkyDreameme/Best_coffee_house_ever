@@ -1,0 +1,1117 @@
+[
+  {
+    "order_no": "001",
+    "slot": "08:30",
+    "guest_tg_id": 900000002,
+    "status": "Принят",
+    "total_rub": 400,
+    "load": 0.8,
+    "items": [
+      {
+        "item_id": 23,
+        "name": "Маффин шоколадный",
+        "size": "M",
+        "milk": null,
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 170,
+        "unit_load": 0.3
+      },
+      {
+        "item_id": 10,
+        "name": "Фильтр-кофе",
+        "size": "L",
+        "milk": null,
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 230,
+        "unit_load": 0.5
+      }
+    ]
+  },
+  {
+    "order_no": "002",
+    "slot": "08:35",
+    "guest_tg_id": 900000003,
+    "status": "Принят",
+    "total_rub": 440,
+    "load": 2.0,
+    "items": [
+      {
+        "item_id": 6,
+        "name": "Раф",
+        "size": "S",
+        "milk": "миндальное",
+        "syrup": true,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 440,
+        "unit_load": 2.0
+      }
+    ]
+  },
+  {
+    "order_no": "003",
+    "slot": "08:40",
+    "guest_tg_id": 900000001,
+    "status": "Принят",
+    "total_rub": 410,
+    "load": 1.7,
+    "items": [
+      {
+        "item_id": 1,
+        "name": "Эспрессо",
+        "size": "M",
+        "milk": null,
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 150,
+        "unit_load": 0.7
+      },
+      {
+        "item_id": 9,
+        "name": "Айс-американо",
+        "size": "M",
+        "milk": null,
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 260,
+        "unit_load": 1.0
+      }
+    ]
+  },
+  {
+    "order_no": "004",
+    "slot": "08:45",
+    "guest_tg_id": 900000002,
+    "status": "Принят",
+    "total_rub": 330,
+    "load": 1.4,
+    "items": [
+      {
+        "item_id": 1,
+        "name": "Эспрессо",
+        "size": "M",
+        "milk": null,
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 150,
+        "unit_load": 0.7
+      },
+      {
+        "item_id": 12,
+        "name": "Чай зелёный",
+        "size": "M",
+        "milk": null,
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 180,
+        "unit_load": 0.7
+      }
+    ]
+  },
+  {
+    "order_no": "005",
+    "slot": "08:50",
+    "guest_tg_id": 900000003,
+    "status": "Принят",
+    "total_rub": 280,
+    "load": 1.5,
+    "items": [
+      {
+        "item_id": 4,
+        "name": "Латте",
+        "size": "S",
+        "milk": "безлактозное",
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 280,
+        "unit_load": 1.5
+      }
+    ]
+  },
+  {
+    "order_no": "006",
+    "slot": "08:55",
+    "guest_tg_id": 900000001,
+    "status": "Принят",
+    "total_rub": 770,
+    "load": 1.9,
+    "items": [
+      {
+        "item_id": 21,
+        "name": "Овсяная каша с ягодами",
+        "size": "M",
+        "milk": null,
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 250,
+        "unit_load": 0.6
+      },
+      {
+        "item_id": 23,
+        "name": "Маффин шоколадный",
+        "size": "M",
+        "milk": null,
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 170,
+        "unit_load": 0.3
+      },
+      {
+        "item_id": 9,
+        "name": "Айс-американо",
+        "size": "L",
+        "milk": null,
+        "syrup": true,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 350,
+        "unit_load": 1.0
+      }
+    ]
+  },
+  {
+    "order_no": "007",
+    "slot": "09:00",
+    "guest_tg_id": 900000002,
+    "status": "Принят",
+    "total_rub": 480,
+    "load": 1.7,
+    "items": [
+      {
+        "item_id": 12,
+        "name": "Чай зелёный",
+        "size": "M",
+        "milk": null,
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 180,
+        "unit_load": 0.7
+      },
+      {
+        "item_id": 9,
+        "name": "Айс-американо",
+        "size": "M",
+        "milk": null,
+        "syrup": true,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 300,
+        "unit_load": 1.0
+      }
+    ]
+  },
+  {
+    "order_no": "008",
+    "slot": "09:05",
+    "guest_tg_id": 900000003,
+    "status": "Принят",
+    "total_rub": 210,
+    "load": 0.3,
+    "items": [
+      {
+        "item_id": 18,
+        "name": "Круассан с миндалём",
+        "size": "M",
+        "milk": null,
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 210,
+        "unit_load": 0.3
+      }
+    ]
+  },
+  {
+    "order_no": "009",
+    "slot": "09:10",
+    "guest_tg_id": 900000001,
+    "status": "Принят",
+    "total_rub": 250,
+    "load": 1.0,
+    "items": [
+      {
+        "item_id": 2,
+        "name": "Американо",
+        "size": "L",
+        "milk": null,
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 250,
+        "unit_load": 1.0
+      }
+    ]
+  },
+  {
+    "order_no": "010",
+    "slot": "09:15",
+    "guest_tg_id": 900000002,
+    "status": "Принят",
+    "total_rub": 260,
+    "load": 1.0,
+    "items": [
+      {
+        "item_id": 13,
+        "name": "Чай облепиховый",
+        "size": "M",
+        "milk": null,
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 260,
+        "unit_load": 1.0
+      }
+    ]
+  },
+  {
+    "order_no": "011",
+    "slot": "09:20",
+    "guest_tg_id": 900000003,
+    "status": "Принят",
+    "total_rub": 200,
+    "load": 0.3,
+    "items": [
+      {
+        "item_id": 16,
+        "name": "Морс ягодный",
+        "size": "M",
+        "milk": null,
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 200,
+        "unit_load": 0.3
+      }
+    ]
+  },
+  {
+    "order_no": "012",
+    "slot": "09:25",
+    "guest_tg_id": 900000001,
+    "status": "Принят",
+    "total_rub": 250,
+    "load": 0.4,
+    "items": [
+      {
+        "item_id": 24,
+        "name": "Печенье овсяное",
+        "size": "M",
+        "milk": null,
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 90,
+        "unit_load": 0.1
+      },
+      {
+        "item_id": 17,
+        "name": "Круассан классический",
+        "size": "M",
+        "milk": null,
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 160,
+        "unit_load": 0.3
+      }
+    ]
+  },
+  {
+    "order_no": "013",
+    "slot": "09:05",
+    "guest_tg_id": 900000002,
+    "status": "Принят",
+    "total_rub": 140,
+    "load": 0.5,
+    "items": [
+      {
+        "item_id": 10,
+        "name": "Фильтр-кофе",
+        "size": "S",
+        "milk": null,
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 140,
+        "unit_load": 0.5
+      }
+    ]
+  },
+  {
+    "order_no": "014",
+    "slot": "09:20",
+    "guest_tg_id": 900000003,
+    "status": "Принят",
+    "total_rub": 480,
+    "load": 1.5,
+    "items": [
+      {
+        "item_id": 9,
+        "name": "Айс-американо",
+        "size": "M",
+        "milk": null,
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 260,
+        "unit_load": 1.0
+      },
+      {
+        "item_id": 19,
+        "name": "Сырник",
+        "size": "M",
+        "milk": null,
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 220,
+        "unit_load": 0.5
+      }
+    ]
+  },
+  {
+    "order_no": "015",
+    "slot": "09:25",
+    "guest_tg_id": 900000001,
+    "status": "Принят",
+    "total_rub": 490,
+    "load": 1.0,
+    "items": [
+      {
+        "item_id": 20,
+        "name": "Сэндвич с индейкой",
+        "size": "M",
+        "milk": null,
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 330,
+        "unit_load": 0.7
+      },
+      {
+        "item_id": 17,
+        "name": "Круассан классический",
+        "size": "M",
+        "milk": null,
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 160,
+        "unit_load": 0.3
+      }
+    ]
+  },
+  {
+    "order_no": "016",
+    "slot": "08:30",
+    "guest_tg_id": 900000002,
+    "status": "Принят",
+    "total_rub": 610,
+    "load": 1.5,
+    "items": [
+      {
+        "item_id": 12,
+        "name": "Чай зелёный",
+        "size": "M",
+        "milk": null,
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 180,
+        "unit_load": 0.7
+      },
+      {
+        "item_id": 19,
+        "name": "Сырник",
+        "size": "M",
+        "milk": null,
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 220,
+        "unit_load": 0.5
+      },
+      {
+        "item_id": 18,
+        "name": "Круассан с миндалём",
+        "size": "M",
+        "milk": null,
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 210,
+        "unit_load": 0.3
+      }
+    ]
+  },
+  {
+    "order_no": "017",
+    "slot": "09:05",
+    "guest_tg_id": 900000003,
+    "status": "Принят",
+    "total_rub": 220,
+    "load": 1.0,
+    "items": [
+      {
+        "item_id": 9,
+        "name": "Айс-американо",
+        "size": "S",
+        "milk": null,
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 220,
+        "unit_load": 1.0
+      }
+    ]
+  },
+  {
+    "order_no": "018",
+    "slot": "09:10",
+    "guest_tg_id": 900000001,
+    "status": "Принят",
+    "total_rub": 540,
+    "load": 2.1,
+    "items": [
+      {
+        "item_id": 3,
+        "name": "Капучино",
+        "size": "M",
+        "milk": "безлактозное",
+        "syrup": false,
+        "extra_shot": 1,
+        "qty": 1,
+        "unit_price": 370,
+        "unit_load": 1.8
+      },
+      {
+        "item_id": 23,
+        "name": "Маффин шоколадный",
+        "size": "M",
+        "milk": null,
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 170,
+        "unit_load": 0.3
+      }
+    ]
+  },
+  {
+    "order_no": "019",
+    "slot": "09:15",
+    "guest_tg_id": 900000002,
+    "status": "Принят",
+    "total_rub": 390,
+    "load": 1.0,
+    "items": [
+      {
+        "item_id": 18,
+        "name": "Круассан с миндалём",
+        "size": "M",
+        "milk": null,
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 210,
+        "unit_load": 0.3
+      },
+      {
+        "item_id": 12,
+        "name": "Чай зелёный",
+        "size": "M",
+        "milk": null,
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 180,
+        "unit_load": 0.7
+      }
+    ]
+  },
+  {
+    "order_no": "020",
+    "slot": "08:45",
+    "guest_tg_id": 900000003,
+    "status": "Принят",
+    "total_rub": 160,
+    "load": 0.3,
+    "items": [
+      {
+        "item_id": 17,
+        "name": "Круассан классический",
+        "size": "M",
+        "milk": null,
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 160,
+        "unit_load": 0.3
+      }
+    ]
+  },
+  {
+    "order_no": "021",
+    "slot": "09:25",
+    "guest_tg_id": 900000001,
+    "status": "Принят",
+    "total_rub": 220,
+    "load": 0.5,
+    "items": [
+      {
+        "item_id": 19,
+        "name": "Сырник",
+        "size": "M",
+        "milk": null,
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 220,
+        "unit_load": 0.5
+      }
+    ]
+  },
+  {
+    "order_no": "022",
+    "slot": "08:50",
+    "guest_tg_id": 900000002,
+    "status": "Принят",
+    "total_rub": 410,
+    "load": 0.6,
+    "items": [
+      {
+        "item_id": 23,
+        "name": "Маффин шоколадный",
+        "size": "M",
+        "milk": null,
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 170,
+        "unit_load": 0.3
+      },
+      {
+        "item_id": 22,
+        "name": "Гранола с йогуртом",
+        "size": "M",
+        "milk": null,
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 240,
+        "unit_load": 0.3
+      }
+    ]
+  },
+  {
+    "order_no": "023",
+    "slot": "08:40",
+    "guest_tg_id": 900000003,
+    "status": "Принят",
+    "total_rub": 200,
+    "load": 0.3,
+    "items": [
+      {
+        "item_id": 16,
+        "name": "Морс ягодный",
+        "size": "M",
+        "milk": null,
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 200,
+        "unit_load": 0.3
+      }
+    ]
+  },
+  {
+    "order_no": "024",
+    "slot": "08:45",
+    "guest_tg_id": 900000001,
+    "status": "Принят",
+    "total_rub": 190,
+    "load": 0.7,
+    "items": [
+      {
+        "item_id": 1,
+        "name": "Эспрессо",
+        "size": "M",
+        "milk": null,
+        "syrup": true,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 190,
+        "unit_load": 0.7
+      }
+    ]
+  },
+  {
+    "order_no": "025",
+    "slot": "09:00",
+    "guest_tg_id": 900000002,
+    "status": "Принят",
+    "total_rub": 400,
+    "load": 0.6,
+    "items": [
+      {
+        "item_id": 22,
+        "name": "Гранола с йогуртом",
+        "size": "M",
+        "milk": null,
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 240,
+        "unit_load": 0.3
+      },
+      {
+        "item_id": 17,
+        "name": "Круассан классический",
+        "size": "M",
+        "milk": null,
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 160,
+        "unit_load": 0.3
+      }
+    ]
+  },
+  {
+    "order_no": "026",
+    "slot": "09:05",
+    "guest_tg_id": 900000003,
+    "status": "Принят",
+    "total_rub": 90,
+    "load": 0.1,
+    "items": [
+      {
+        "item_id": 24,
+        "name": "Печенье овсяное",
+        "size": "M",
+        "milk": null,
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 90,
+        "unit_load": 0.1
+      }
+    ]
+  },
+  {
+    "order_no": "027",
+    "slot": "09:20",
+    "guest_tg_id": 900000001,
+    "status": "Принят",
+    "total_rub": 690,
+    "load": 2.2,
+    "items": [
+      {
+        "item_id": 8,
+        "name": "Айс-латте",
+        "size": "S",
+        "milk": "миндальное",
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 360,
+        "unit_load": 1.5
+      },
+      {
+        "item_id": 20,
+        "name": "Сэндвич с индейкой",
+        "size": "M",
+        "milk": null,
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 330,
+        "unit_load": 0.7
+      }
+    ]
+  },
+  {
+    "order_no": "028",
+    "slot": "08:55",
+    "guest_tg_id": 900000002,
+    "status": "Принят",
+    "total_rub": 240,
+    "load": 0.8,
+    "items": [
+      {
+        "item_id": 24,
+        "name": "Печенье овсяное",
+        "size": "M",
+        "milk": null,
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 90,
+        "unit_load": 0.1
+      },
+      {
+        "item_id": 1,
+        "name": "Эспрессо",
+        "size": "M",
+        "milk": null,
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 150,
+        "unit_load": 0.7
+      }
+    ]
+  },
+  {
+    "order_no": "029",
+    "slot": "09:05",
+    "guest_tg_id": 900000003,
+    "status": "Принят",
+    "total_rub": 670,
+    "load": 2.0,
+    "items": [
+      {
+        "item_id": 19,
+        "name": "Сырник",
+        "size": "M",
+        "milk": null,
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 220,
+        "unit_load": 0.5
+      },
+      {
+        "item_id": 8,
+        "name": "Айс-латте",
+        "size": "L",
+        "milk": "миндальное",
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 450,
+        "unit_load": 1.5
+      }
+    ]
+  },
+  {
+    "order_no": "030",
+    "slot": "09:25",
+    "guest_tg_id": 900000001,
+    "status": "Принят",
+    "total_rub": 260,
+    "load": 1.0,
+    "items": [
+      {
+        "item_id": 13,
+        "name": "Чай облепиховый",
+        "size": "M",
+        "milk": null,
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 260,
+        "unit_load": 1.0
+      }
+    ]
+  },
+  {
+    "order_no": "031",
+    "slot": "08:35",
+    "guest_tg_id": 900000002,
+    "status": "Принят",
+    "total_rub": 630,
+    "load": 2.3,
+    "items": [
+      {
+        "item_id": 19,
+        "name": "Сырник",
+        "size": "M",
+        "milk": null,
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 220,
+        "unit_load": 0.5
+      },
+      {
+        "item_id": 4,
+        "name": "Латте",
+        "size": "S",
+        "milk": "овсяное",
+        "syrup": false,
+        "extra_shot": 1,
+        "qty": 1,
+        "unit_price": 410,
+        "unit_load": 1.8
+      }
+    ]
+  },
+  {
+    "order_no": "032",
+    "slot": "08:40",
+    "guest_tg_id": 900000003,
+    "status": "Принят",
+    "total_rub": 350,
+    "load": 1.1,
+    "items": [
+      {
+        "item_id": 9,
+        "name": "Айс-американо",
+        "size": "M",
+        "milk": null,
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 260,
+        "unit_load": 1.0
+      },
+      {
+        "item_id": 24,
+        "name": "Печенье овсяное",
+        "size": "M",
+        "milk": null,
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 90,
+        "unit_load": 0.1
+      }
+    ]
+  },
+  {
+    "order_no": "033",
+    "slot": "09:15",
+    "guest_tg_id": 900000001,
+    "status": "Принят",
+    "total_rub": 620,
+    "load": 2.2,
+    "items": [
+      {
+        "item_id": 15,
+        "name": "Горячий шоколад",
+        "size": "L",
+        "milk": "миндальное",
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 440,
+        "unit_load": 1.5
+      },
+      {
+        "item_id": 11,
+        "name": "Чай чёрный",
+        "size": "M",
+        "milk": null,
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 180,
+        "unit_load": 0.7
+      }
+    ]
+  },
+  {
+    "order_no": "034",
+    "slot": "08:50",
+    "guest_tg_id": 900000002,
+    "status": "Принят",
+    "total_rub": 330,
+    "load": 0.7,
+    "items": [
+      {
+        "item_id": 20,
+        "name": "Сэндвич с индейкой",
+        "size": "M",
+        "milk": null,
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 330,
+        "unit_load": 0.7
+      }
+    ]
+  },
+  {
+    "order_no": "035",
+    "slot": "08:30",
+    "guest_tg_id": 900000003,
+    "status": "Принят",
+    "total_rub": 460,
+    "load": 1.7,
+    "items": [
+      {
+        "item_id": 7,
+        "name": "Мокка",
+        "size": "L",
+        "milk": "овсяное",
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 460,
+        "unit_load": 1.7
+      }
+    ]
+  },
+  {
+    "order_no": "036",
+    "slot": "09:00",
+    "guest_tg_id": 900000001,
+    "status": "Принят",
+    "total_rub": 350,
+    "load": 1.5,
+    "items": [
+      {
+        "item_id": 14,
+        "name": "Какао",
+        "size": "L",
+        "milk": "безлактозное",
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 350,
+        "unit_load": 1.5
+      }
+    ]
+  },
+  {
+    "order_no": "037",
+    "slot": "08:45",
+    "guest_tg_id": 900000002,
+    "status": "Принят",
+    "total_rub": 490,
+    "load": 0.9,
+    "items": [
+      {
+        "item_id": 21,
+        "name": "Овсяная каша с ягодами",
+        "size": "M",
+        "milk": null,
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 250,
+        "unit_load": 0.6
+      },
+      {
+        "item_id": 22,
+        "name": "Гранола с йогуртом",
+        "size": "M",
+        "milk": null,
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 240,
+        "unit_load": 0.3
+      }
+    ]
+  },
+  {
+    "order_no": "038",
+    "slot": "08:55",
+    "guest_tg_id": 900000003,
+    "status": "Принят",
+    "total_rub": 810,
+    "load": 1.5,
+    "items": [
+      {
+        "item_id": 10,
+        "name": "Фильтр-кофе",
+        "size": "L",
+        "milk": null,
+        "syrup": true,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 270,
+        "unit_load": 0.5
+      },
+      {
+        "item_id": 20,
+        "name": "Сэндвич с индейкой",
+        "size": "M",
+        "milk": null,
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 330,
+        "unit_load": 0.7
+      },
+      {
+        "item_id": 18,
+        "name": "Круассан с миндалём",
+        "size": "M",
+        "milk": null,
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 210,
+        "unit_load": 0.3
+      }
+    ]
+  },
+  {
+    "order_no": "039",
+    "slot": "08:50",
+    "guest_tg_id": 900000001,
+    "status": "Принят",
+    "total_rub": 410,
+    "load": 1.7,
+    "items": [
+      {
+        "item_id": 13,
+        "name": "Чай облепиховый",
+        "size": "M",
+        "milk": null,
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 260,
+        "unit_load": 1.0
+      },
+      {
+        "item_id": 1,
+        "name": "Эспрессо",
+        "size": "M",
+        "milk": null,
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 150,
+        "unit_load": 0.7
+      }
+    ]
+  },
+  {
+    "order_no": "040",
+    "slot": "09:25",
+    "guest_tg_id": 900000002,
+    "status": "Принят",
+    "total_rub": 340,
+    "load": 1.5,
+    "items": [
+      {
+        "item_id": 4,
+        "name": "Латте",
+        "size": "S",
+        "milk": "овсяное",
+        "syrup": false,
+        "extra_shot": 0,
+        "qty": 1,
+        "unit_price": 340,
+        "unit_load": 1.5
+      }
+    ]
+  }
+]
